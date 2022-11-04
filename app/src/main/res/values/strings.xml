@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weddin</string>
+    <string name="resend">Resend</string>
+    <string name="submit">Submit</string>
+    <string name="note_text_no_happy_places_found_yet">No Data Available</string>
+    <string name="image_content_description">Image</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040447556673",
+    "project_id": "weddin-62f34",
+    "storage_bucket": "weddin-62f34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040447556673:android:4f7171202944d8d46e4ac0",
+        "android_client_info": {
+          "package_name": "com.example.weddin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040447556673-9n3fdrpeso1n5eelb8bnocnvhrusimjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TXGsMHtyJFT_UF2chc2LZ9BE0wHULMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040447556673-9n3fdrpeso1n5eelb8bnocnvhrusimjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
